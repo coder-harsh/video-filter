@@ -65,7 +65,6 @@ h1 {
 #btn-filter .active,
 #btn-filter .btn-filter-child:hover {
     background-color: #1d9bf0;
-    transition: all ease-in-out 0.9s;
 }
 
 #video-container {
